@@ -1,5 +1,7 @@
 # Projet de Stage " Machine Learning pour l'analyse du Myelome Multiple " - Laboratoire COMET
 
+## Réalisé en R
+
 #### Lien vers page html : https://aemds10.github.io/Stage---MMRF/dashboard_MMRF.html    
 
 Ce dépôt contient les fichiers développés dans le cadre de mon stage au laboratoire COMET (Communication Cellulaire et Microenvironnement Tumoral), rattaché à l’Université de Poitiers.
@@ -23,6 +25,7 @@ Encadrement scientifique : Mme Brigitte VANNIER du laboratoire COMET – Univers
 Thématiques : Données transcriptomiques, Myèlome Multiple, Analyse de données, Classification
 
 Période du stage : 21/04/25 au 30/05/25
+
 
 
 
